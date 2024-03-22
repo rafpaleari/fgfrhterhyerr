@@ -1,0 +1,21 @@
+#a1{
+    border: black;
+    border: dotted;
+    border-top: red dotted;
+    border-bottom: blue dotted;
+    border-left: pink;
+    border-right: greenyellow;
+}  
+#a2{
+    border: yellow double;
+    
+}
+#a3{
+    border: blueviolet dashed;
+}
+#a4{
+    border: cyan groove;
+}
+#a5{
+    border: greenyellow outset;
+}

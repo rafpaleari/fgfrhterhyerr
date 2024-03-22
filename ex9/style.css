@@ -1,0 +1,20 @@
+#a1{
+    border: black;
+    border: dotted;
+}
+#a2{
+    border: black;
+    border: double;
+}
+#a3{
+    border: black;
+    border: dashed;
+}
+#a4{
+    border: black;
+    border: groove;
+}
+#a5{
+    border: black;
+    border: outset;
+}
